@@ -1,1 +1,1 @@
-# udacity_user_experience
+# Udacity User Experience Nanodegree
